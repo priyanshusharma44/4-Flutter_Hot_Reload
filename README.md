@@ -1,7 +1,8 @@
 Scaffolds And Widgets
 
 App Screenshot
-https://github.com/priyanshusharma44/4-Flutter_Hot_Reload/blob/main/Screenshot%202023-12-16%20140122.png
+![App Screenshot](https://github.com/priyanshusharma44/4-Flutter_Hot_Reload/blob/main/Screenshot%202023-12-16%20140122.png
+)
 
 Overview
 Scaffolds And Widgets is a simple Flutter project that serves as a great starting point for beginners learning Flutter development. The project demonstrates the usage of scaffolds and widgets to create a basic mobile application. The code is structured in a way that is easy to understand and provides a minimalistic mobile app.
